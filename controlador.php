@@ -6,4 +6,6 @@
 
       $obj = new Consulta();
       $obj->respu($usuario, $contrasena);
+
+      //Elkin Andres Alarcon Diaz
  ?>
